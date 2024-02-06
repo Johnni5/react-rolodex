@@ -1,10 +1,15 @@
 # ROLODEX  
-v.1.0
+v.1.9
 
+-- finite version (for github to present)
 fetching data from url
 searchbar/-field
 responsive
 nice :)
+
+why finite?
+ ive added and played around with <b>HOOKS</b> at my local repo, but,
+ i think, its better this way, so Gh can show the app without problems.
 
 
 
